@@ -1,0 +1,14 @@
+{
+  "name": "express-website-static",
+  "version": "1.0.0",
+  "description": "A simple node/express application to serve static HTML content from a root folder",
+  "scripts": {
+    "start": "node server/main.mjs"
+  },
+  "repository": "https://allvintage@github.com/allvintage/express-website-static.git",
+  "author": "Martin Frericks <mfrericks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
